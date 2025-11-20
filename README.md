@@ -1,7 +1,8 @@
 # RRDRscreening2025
 
 Part 1: Overview of all files included in this repository and their organization into subfolders. 
-Part 1: "How-to" guide for applying the post-processing baseline subtraction code for external research use. 
+
+Part 2: "How-to" guide for applying the post-processing baseline subtraction code for external research use. 
 
 ------------------------------------------------------------------------------------------------------
 
